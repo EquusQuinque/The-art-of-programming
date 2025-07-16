@@ -32,6 +32,10 @@ This book covers:
 
 ---
 
+## Start Reading
+
+👉 [Table of Contents](./Table-of-Contents.md)
+
 ## How to Use
 
 - You can read the book directly in the markdown files in the `chapters` folder.  
